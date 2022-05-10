@@ -1,5 +1,6 @@
 # ACC-PROJECT
 Functionalities
+
 Web crawling
 Inverted indexing
 Web page ranking
