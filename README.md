@@ -1,5 +1,5 @@
 # ACC-PROJECT
-Functionalities
+**Functionalities**
 
 Web crawling
 
