@@ -2,8 +2,15 @@
 Functionalities
 
 Web crawling
+
 Inverted indexing
+
 Web page ranking
-Web Search, Get Suggestions, Spell Check
+
+Web Search
+
+Get Suggestions
+
+Spell Check
 
 
